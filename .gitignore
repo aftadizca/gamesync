@@ -1,0 +1,6 @@
+*.png
+client_secrets.json
+__pycache__/
+credentials.json
+settings.yaml
+.vscode/settings.json
